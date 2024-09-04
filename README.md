@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.js, and Redux**
 
-- 👨‍💻 All of my projects are available at [my portfolio](https://adekolatoni.netlify.app/](https://porfolio-latest.vercel.app)
+- 👨‍💻 All of my projects are available at [my portfolio](https://porfolio-latest.vercel.app)
 
 - 📫 How to reach me **atoniloba@gmail.com, +234-701 5139 603**
 
