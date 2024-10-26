@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **atoniloba@gmail.com, +234-701 5139 603**
 
-- 📄 Know about my experiences [https://adekolaresume.netlify.app/](https://adekolaresume.netlify.app/)
+- 📄 Read about my technical experiences on my blog [Blog](https://theadekolaexperience.hashnode.dev/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
