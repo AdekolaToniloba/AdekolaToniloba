@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adekolatoniloba&label=Profile%20views&color=0e75b6&style=flat" alt="adekolatoniloba" /> </p>
 
-- 🌱 I’m currently learning **React.js, and Redux**
+- 🌱 I’m currently learning **Vue JS and PHP**
 
 - 👨‍💻 All of my projects are available at [my portfolio](https://porfolio-latest.vercel.app)
 
